@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis
 
-## 📌 One-Line Summary
+## 📌 Summary
 End-to-end analysis of pizza sales data using **SQL + Power BI**, uncovering customer preferences, sales trends, and revenue insights.
 
 ---
@@ -110,4 +110,4 @@ These insights can help the store:
 ## ✍️ Author & Contact
 **Author:** Taniksha  
 - 📧 Email: *[tanikshasaini2003@gmail.com]*  
-- 🐙 GitHub: *[github.com/Taniksha003]*  
+- 🐙 GitHub: *[https://github.com/Taniksha003]*  
